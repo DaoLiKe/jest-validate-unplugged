@@ -5,7 +5,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 OWNER="DaoLiKe"
-REPO="jest-validate-study"
+REPO="jest-validate-unplugged"
 BRANCH="main"
 COMMIT_MSG="Initial commit: jest-validate study (attributed derivative of jestjs/jest)
 
