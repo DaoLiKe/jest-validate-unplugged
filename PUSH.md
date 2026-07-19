@@ -1,4 +1,4 @@
-# 推送到 GitHub（DaoLiKe/jest-validate-study）
+# 推送到 GitHub（DaoLiKe/jest-validate-unplugged）
 
 本仓库是 **jestjs/jest** 中 `jest-validate` 模块的学习性「署名派生」：
 - 原始 MIT License（Meta Platforms 版权）已逐字保留 → `LICENSE`
@@ -12,20 +12,20 @@
 1. 在 GitHub 生成一个 **Classic Personal Access Token**，勾选 `repo` 权限（以及 `read:user`）。
    - 路径：GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token。
 2. 把 token 粘贴给我（推送完成后建议你立即在 GitHub 撤销该 token）。
-3. 我会通过 GitHub REST Contents API 把 16 个文件逐个创建到 `DaoLiKe/jest-validate-study`，每个文件独立提交，规避单次大 payload 的 `400` 限制。
+3. 我会通过 GitHub REST Contents API 把 16 个文件逐个创建到 `DaoLiKe/jest-validate-unplugged`，每个文件独立提交，规避单次大 payload 的 `400` 限制。
 
 ## 方式 B：你自己本地一键推送
 适用：你本地已 `gh auth login` 或 git 凭据已缓存。
 
 Git Bash / WSL：
 ```bash
-cd /path/to/jest-validate-study
+cd /path/to/jest-validate-unplugged
 bash push.sh
 ```
 
 Windows CMD：
 ```bat
-cd D:\deepseek\WB\jest-validate-study
+cd D:\deepseek\WB\jest-validate-unplugged
 push.bat
 ```
 
