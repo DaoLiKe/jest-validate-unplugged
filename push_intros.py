@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Push ONLY the three intro markdown files to DaoLiKe/jest-validate-study.
+# Push ONLY the three intro markdown files to DaoLiKe/jest-validate-unplugged.
 # Reads from disk (byte-exact); uses GitHub REST API with GITHUB_TOKEN.
 import os, base64, json, sys, urllib.request, urllib.error
 from urllib.parse import quote
