@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# One-command local push for jest-validate-study -> github.com/DaoLiKe/jest-validate-study
+# One-command local push for jest-validate-unplugged -> github.com/DaoLiKe/jest-validate-unplugged
 # Run on YOUR machine (Git Bash / WSL / any bash) where `gh` is authed OR git credentials are cached.
 set -euo pipefail
 cd "$(dirname "$0")"
