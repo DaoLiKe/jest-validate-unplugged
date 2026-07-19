@@ -1,5 +1,5 @@
 @echo off
-REM One-command local push for jest-validate-study -> github.com/DaoLiKe/jest-validate-study
+REM One-command local push for jest-validate-unplugged -> github.com/DaoLiKe/jest-validate-unplugged
 REM Run on YOUR machine (Windows CMD) where `gh` is authed OR git credentials are cached.
 cd /d %~dp0
 
