@@ -1,0 +1,11 @@
+{
+  "name": "jest-validate-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "团队代码质量研读/重构练习 · 基于 jestjs/jest 的 jest-validate (MIT, Meta)",
+  "scripts": {
+    "start": "node examples/usage.js"
+  },
+  "license": "MIT"
+}
