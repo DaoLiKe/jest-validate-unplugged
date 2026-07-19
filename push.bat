@@ -4,7 +4,7 @@ REM Run on YOUR machine (Windows CMD) where `gh` is authed OR git credentials ar
 cd /d %~dp0
 
 set OWNER=DaoLiKe
-set REPO=jest-validate-study
+set REPO=jest-validate-unplugged
 set BRANCH=main
 
 git init
